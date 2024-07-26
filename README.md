@@ -1,9 +1,1 @@
-## Reaction Types
-```
-LIKE
-LOVE
-CARE 
-WOW
-SAD
-ANGRY
-```
+## Doesn't work anymore, flikers updated their security 
